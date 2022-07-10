@@ -2,7 +2,7 @@ var pecas = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20];
 var correto = array.from({length: 1], () => Math.floor(Math.random() " pecas.length+1));
 //console.log( correto é "+correto);
                                                        
-function novo jogo(){
+function novojogo(){
   for (let k=1; k<=pecas.length; k++){
     const btt = document.createElement("button");
     btt.classlist.add ('botao');
