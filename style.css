@@ -1,0 +1,32 @@
+#entrada{
+  font-size: 125%;
+  text-align: center;
+  padding-top: 20pt;
+  border: 1px solid black;
+  wifth: 100%;
+  heigth: 50px;
+}
+#jogo{
+  width: 100%;
+  border: 1px solid black;
+  border-top-color white;
+  display: grid;
+  grid_tempplate_coluns: auto auto auto auto;
+}
+.botao{
+  width: 50px;
+  heigth: 50px;
+  background-color: cadetblue;
+  border: 1px solid black;
+  margin-top: 10%;
+  margin-rigth: 10%;
+  margin-bottom: 10px;
+  margin-left: 10%;
+}
+.info{
+  color: red;
+}
+#contador{
+  font-size: 110%;
+}
+  
